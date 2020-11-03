@@ -80,6 +80,7 @@ position: absolute; top: 0;bottom: 0; left: 0; right: 0; margin: auto;}
 .container .event3 .txt1 {margin: 195px 0 5px 150px; font-family: '210 OmniGothic 030','맑은 고딕',sans-serif ;}
 .container .event3 .txt1 .pc {display: none;}
 .container .event3 .txt2 {margin: 0 0 0 80px;}
+.container .event3 .txt1:hover, .container .event3 .txt2:hover {color: #5f5f5f;}
 
 
 /* 이벤트 4 */
